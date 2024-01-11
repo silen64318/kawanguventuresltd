@@ -1,2 +1,2 @@
 # kawanguventuresltd
-A basic website for kawangu contractors 
+A website for kawangu contractors 
